@@ -44,5 +44,5 @@ describe 'form' do
   #   click_on "Update Post"
 
   #   expect(page).to have_content("My edit")
-  end
+  #end
 end
